@@ -6,27 +6,27 @@
       <Sequence>
         <GetWaypoint x="5.65"
                      y="0.962"
-                     yaw="2.356"
+                     yaw="1.57"
                      waypoint="{wp}"/>
         <Move goal="{wp}"/>
         <GetWaypoint x="8.59"
                      y="3.77"
-                     yaw="4.71"
+                     yaw="3.14"
                      waypoint="{wp}"/>
         <Move goal="{wp}"/>
         <GetWaypoint x="5.72"
                      y="5.49"
-                     yaw="0"
+                     yaw="-1.57"
                      waypoint="{wp}"/>
         <Move goal="{wp}"/>
         <GetWaypoint x="1.95"
                      y="5.98"
-                     yaw="0"
+                     yaw="-1.57"
                      waypoint="{wp}"/>
         <Move goal="{wp}"/>
         <GetWaypoint x="0.772"
                      y="-0.151"
-                     yaw="1.57"
+                     yaw="0"
                      waypoint="{wp}"/>
         <Move goal="{wp}"/>
       </Sequence>
